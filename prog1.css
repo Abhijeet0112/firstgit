@@ -1,0 +1,36 @@
+h1{
+    background-color: aquamarine;
+}
+.div{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+}
+.div1{
+    border: 1px solid;
+    height: 100px;
+    width: 200px;
+    background-color: paleturquoise;
+    -ms-text-align-last: center;
+}
+.div2{
+    border: 1px solid;
+    height: 100px;
+    width: 200px;
+    background-color: paleturquoise;
+    text-align: center;
+}
+.div3{
+    border: 1px solid;
+    height: 100px;
+    width: 200px;
+    background-color: paleturquoise;
+    text-align: center;
+}
+.div4{
+    border: 1px solid;
+    height: 100px;
+    width: 200px;
+    background-color: paleturquoise;
+    text-align: center;
+}
